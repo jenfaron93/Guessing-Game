@@ -1,0 +1,7 @@
+C:\Users\jf891\source\repos\Assignment3\Guess The Number\Guess The Number\obj\Debug\Guess The Number.csprojResolveAssemblyReference.cache
+C:\Users\jf891\source\repos\Assignment3\Guess The Number\Guess The Number\obj\Debug\Guess The Number.csproj.CoreCompileInputs.cache
+C:\Users\jf891\source\repos\Assignment3\Guess The Number\Guess The Number\bin\Debug\Guess The Number.exe.config
+C:\Users\jf891\source\repos\Assignment3\Guess The Number\Guess The Number\bin\Debug\Guess The Number.exe
+C:\Users\jf891\source\repos\Assignment3\Guess The Number\Guess The Number\bin\Debug\Guess The Number.pdb
+C:\Users\jf891\source\repos\Assignment3\Guess The Number\Guess The Number\obj\Debug\Guess The Number.exe
+C:\Users\jf891\source\repos\Assignment3\Guess The Number\Guess The Number\obj\Debug\Guess The Number.pdb

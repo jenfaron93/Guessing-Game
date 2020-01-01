@@ -1,0 +1,14 @@
+C:\Users\jf891\source\repos\Assignment3\DisplayingBarChart\bin\Debug\DisplayingBarChart.exe.config
+C:\Users\jf891\source\repos\Assignment3\DisplayingBarChart\bin\Debug\DisplayingBarChart.exe
+C:\Users\jf891\source\repos\Assignment3\DisplayingBarChart\bin\Debug\DisplayingBarChart.pdb
+C:\Users\jf891\source\repos\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.csprojResolveAssemblyReference.cache
+C:\Users\jf891\source\repos\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.csproj.CoreCompileInputs.cache
+C:\Users\jf891\source\repos\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.exe
+C:\Users\jf891\source\repos\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.pdb
+C:\Users\jf891\Desktop\Assignment3\DisplayingBarChart\bin\Debug\DisplayingBarChart.exe.config
+C:\Users\jf891\Desktop\Assignment3\DisplayingBarChart\bin\Debug\DisplayingBarChart.exe
+C:\Users\jf891\Desktop\Assignment3\DisplayingBarChart\bin\Debug\DisplayingBarChart.pdb
+C:\Users\jf891\Desktop\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.csprojResolveAssemblyReference.cache
+C:\Users\jf891\Desktop\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.csproj.CoreCompileInputs.cache
+C:\Users\jf891\Desktop\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.exe
+C:\Users\jf891\Desktop\Assignment3\DisplayingBarChart\obj\Debug\DisplayingBarChart.pdb
